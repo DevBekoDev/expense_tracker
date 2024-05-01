@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115478335368",
+    "project_id": "spendolingo",
+    "storage_bucket": "spendolingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115478335368:android:73c5d6a83c5f28c45d343d",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrz0uoy9izHC09lifDwCqpnrPSuWMOCjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
