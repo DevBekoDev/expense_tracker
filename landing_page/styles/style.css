@@ -1,0 +1,147 @@
+body
+{
+    background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+header svg
+{
+    
+    
+   display: block;
+   left: 30px;
+   top: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+section 
+{
+    display: flex;
+    align-content: start;
+    height: 100%;
+    width: 100%;
+}
+.screenshot 
+{float: right;
+     align-items: center; width: 40%; margin-right: 80px;}
+.screenshot svg
+{
+    
+    max-height: 600px;
+   width: 600px;
+   margin-left: 80px;
+}
+.button
+{
+    display: flex;
+     float: right;
+      width: 10%;
+      bottom: 0;
+  margin-top: 32%;
+  
+}
+
+.button input:hover
+{
+    background-color:grey;
+    cursor: pointer;
+}
+
+
+
+.desc
+{
+    width: 40%;
+    float: left;
+    margin-left: 40px;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;  
+}
+
+.desc ul 
+{
+    text-align: left;
+}
+h1
+{
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+h2
+{
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2
+{
+    background: -webkit-linear-gradient(black, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p, ul
+{
+    font-weight: bold;
+    color: #1a1818;
+    font-size: 19px;
+}
+
+input
+{
+    width: 250px;
+    border-radius: 10px;
+    height: 70px;
+    font-size: 25px;
+    font-weight:lighter;
+}
+
+
+@media only screen and (max-width: 600px) {
+ 
+    header svg
+  {
+    width: 100%;
+  }
+    .screenshot
+  {
+    width: 100%;
+    
+  }
+  .button
+  {
+    
+    width: 60%;
+    
+  }
+.screenshot svg
+{
+
+  width: 220%;
+  margin-left: 50px;
+}
+  .desc, ul, li
+  {
+    font-size: 16px;
+    text-align: left;
+    width: 100%;
+  }
+  h1,h2
+  {
+    width: 100%;
+    
+  }
+
+  .bigboss
+  {
+    width: 50%;
+  }
+    
+
+  }
+

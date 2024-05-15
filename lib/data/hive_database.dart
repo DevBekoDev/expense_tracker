@@ -2,7 +2,7 @@ import 'package:expense_tracker/models/items.dart';
 import 'package:hive/hive.dart';
 
 class HiveDatabase {
-  final myBox = Hive.box("expense");
+  final myBox = Hive.box("expense1212");
 
   // save whole data to hive
   void saveData(List<ExpenseItems> allexpense) {

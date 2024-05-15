@@ -5,6 +5,6 @@ import 'package:hive_flutter/adapters.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
-  await Hive.openBox("expense");
+  await Hive.openBox("expense1212");
   runApp(const MyApp());
 }

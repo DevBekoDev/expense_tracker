@@ -103,7 +103,7 @@ class Expensummary extends StatelessWidget {
                     thursday, friday, saturday),
                 monAmount: value.getDailyexpense()[sunday] ?? 0,
                 sunAmount: value.getDailyexpense()[monday] ?? 0,
-                tueAmount: value.getDailyexpense()[thursday] ?? 0,
+                tueAmount: value.getDailyexpense()[tuesday] ?? 0,
                 wedAmount: value.getDailyexpense()[wednesday] ?? 0,
                 thurAmount: value.getDailyexpense()[thursday] ?? 0,
                 friAmount: value.getDailyexpense()[friday] ?? 0,
