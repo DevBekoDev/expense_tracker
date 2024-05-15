@@ -44,8 +44,9 @@ The most significant technical challenge was managing custom data types with Hiv
 ## Installation
 
 Clone the repo or download the app directly from the link below
+[Media Fire link](https://www.mediafire.com/file/2bbchcdhuhqzmv0/app-release.apk/file)
 
-  [Media Fire link](https://www.mediafire.com/file/2bbchcdhuhqzmv0/app-release.apk/file)
+## Logo
 ![Logo](https://github.com/DevBekoDev/expense_tracker/blob/main/landing_page/img/Letter%20M%20logo%20template.%20Unique%20modern%20creative%20elegant%20logotype.%20Vector%20icon.%20(4).svg?raw=true)
 
 
